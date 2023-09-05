@@ -5,11 +5,15 @@ This is a simple e-commerce web application built with React. It provides a user
 ## Features
 - User authentication
 - Product catalog
+- Product Detail page
 - Shopping cart
+- wishlist page
 - Checkout process
 - User reviews and ratings
-- Admin dashboard (if applicable)
-- Payment integration (if applicable)
+- Categories Filter
+- Filter on price
+- Payment integration
+- API Integration
 
 ## Getting Started
 Follow these instructions to set up and run the project locally.
