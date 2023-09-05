@@ -27,9 +27,9 @@ Follow these instructions to set up and run the project locally.
    ```bash
    git clone https://github.com/your-username/musicfy.git
 
-### cd musicfy
-### npm install
-### npm start
+### `cd musicfy`
+### `npm install`
+###  `npm start`
 
 Open your browser and go to http://localhost:3000 to access the app.
 The page will reload when you make changes.\
